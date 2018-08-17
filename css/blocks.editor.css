@@ -1,6 +1,10 @@
 /**
  * Editor styles for the admin
  */
+.wc-block-button {
+  margin: 2rem 0 1rem;
+  position: relative; }
+
 .wc-block-button + .blocks-button__inline-link .editor-url-input {
   display: inline-block;
   width: auto; }
