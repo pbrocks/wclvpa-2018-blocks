@@ -1,0 +1,13 @@
+/**
+ * Note that these styles are loaded *after* common styles, so that
+ * editor-specific styles using the same selectors will take precedence.
+ */
+.wp-block-pbrocks-wclvpa-checkout-button {
+    background: #F39C12;
+    border: none;
+    box-shadow: 1px 2px 4px rgba(0,0,0,0.2);
+    color: #FFF;
+    font-size: 1.8rem;
+    padding: 1.45rem 2.9rem;
+    text-shadow: none;
+}

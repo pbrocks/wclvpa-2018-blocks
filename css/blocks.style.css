@@ -1,0 +1,68 @@
+/**
+ * Note that these styles are loaded *after* common styles, so that
+ * editor-specific styles using the same selectors will take precedence.
+ */
+.wp-block-pbrocks-wclvpa-checkout-button {
+  background: #F39C12;
+  border: none;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.2);
+  color: #FFF;
+  font-size: 1.8rem;
+  padding: 1.45rem 2.9rem;
+  text-shadow: none; }
+/**
+ * Button styles
+ * Loads on front end and back end
+ */
+.wc-block-button {
+  margin: 3rem 0;
+  position: relative; }
+  .wc-block-button .blocks-rich-text {
+    display: -ms-inline-flexbox;
+    display: inline-flex; }
+  .wc-block-button .components-autocomplete {
+    display: inline-block;
+    width: auto;
+    margin: 0 auto;
+    position: relative; }
+  .wc-block-button .lvpa-button {
+    text-align: center;
+    font-size: 18px;
+    line-height: 1 !important;
+    background-color: #32373c;
+    border: none;
+    border-radius: 50px;
+    box-shadow: none;
+    color: #fff;
+    cursor: pointer;
+    padding: .6em 1em;
+    text-decoration: none;
+    word-break: break-word;
+    transition: .3s ease;
+    display: inline-block; }
+    .wc-block-button .lvpa-button:hover {
+      box-shadow: inset 0 0 200px rgba(255, 255, 255, 0.15); }
+  .wc-block-button .lvpa-button-shape-square {
+    border-radius: 0; }
+  .wc-block-button .lvpa-button-shape-rounded {
+    border-radius: 5px; }
+  .wc-block-button .lvpa-button-shape-circular {
+    border-radius: 100px; }
+  .wc-block-button .lvpa-button-size-small {
+    font-size: 14px; }
+  .wc-block-button .lvpa-button-size-medium {
+    font-size: 20px; }
+  .wc-block-button .lvpa-button-size-large {
+    font-size: 26px;
+    padding: .8em 1.2em; }
+  .wc-block-button .lvpa-button-size-extralarge {
+    font-size: 34px;
+    padding: .8em 1.2em; }
+
+.lvpa-button-right {
+  transform: translateX(-100%);
+  left: 100%;
+  position: relative; }
+
+.lvpa-button-center {
+  margin: 0 auto; }

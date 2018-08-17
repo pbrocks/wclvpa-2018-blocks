@@ -1,0 +1,7 @@
+Block Button => borrowed from Atomic Blocks
+
+A little more advanced JS, so a components folder created
+
+Styles are placed in a folder, too, but this is a superficial difference
+
+Main file is the index.js - recall block.js as the name for checkout-button

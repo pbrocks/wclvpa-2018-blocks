@@ -1,0 +1,11 @@
+Checkout Button Block
+
+block.js => Notice singular, could just as easily be index.js
+
+block.php allows us to talk to the server
+
+editor.scss css specific to this block and only in the dashboard editor
+
+inspector.js the dynamic values in the editor, commonly in the right sidebar
+
+style.scss css specific to this block but will apply to both editor and frontend

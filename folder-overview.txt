@@ -1,0 +1,10 @@
+Folder Overview
+
+
+Blocks folder contains the blocks that we'll build for the new editor
+
+CSS has common SASS files that will be complied
+
+JS also has JS files common to all
+
+Node Modules are automatically downloaded and installed via NPM or Yarn and are necessary for the build process, but are not included in the final plugin.
