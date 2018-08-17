@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WCLVPA Blocks
+ * Plugin Name: WCLVPA 2018 Blocks
  * Plugin URI: https://www.paidmembershipspro.com
  * Description: Sample of WordPress blocks built using the new Blocks API, currently codenamed Gutenberg; emphasis on when and why to use PHP.
  * Version: 1.2
